@@ -1,0 +1,16 @@
+name: MyFirstPlugin
+version: '${project.version}'
+main: me.adamsalem.Plugin.Plugin
+api-version: 1.18
+authors: [ AdamSalem, ItzVoidYT ]
+description: My first plugin!
+commands:
+
+    coords:
+        description: Gets the users coordinates
+        usage: /coords
+
+    getcoords:
+        description: Gets the specified user coordinates
+        usage: /getcoords arguments
+

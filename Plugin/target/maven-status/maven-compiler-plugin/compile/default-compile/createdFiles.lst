@@ -1,0 +1,6 @@
+me\adamsalem\Plugin\Commands\getCoords.class
+me\adamsalem\Plugin\listeners\PlayerJoinListener.class
+me\adamsalem\Plugin\Commands\coords.class
+me\adamsalem\Plugin\listeners\ProjectileHitListener.class
+me\adamsalem\Plugin\listeners\EntityDeathListener.class
+me\adamsalem\Plugin\Plugin.class
